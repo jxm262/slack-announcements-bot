@@ -20,6 +20,7 @@
   "dependencies": {
     "botkit": "^0.4.10",
     "cheerio": "^0.22.0",
+    "lodash": "^4.17.4",
     "superagent": "^3.4.1"
   },
   "devDependencies": {

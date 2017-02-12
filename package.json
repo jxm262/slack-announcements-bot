@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jxm262/slack-announcements-bot#readme",
   "dependencies": {
+    "bluebird": "^3.4.7",
     "botkit": "^0.4.10",
     "cheerio": "^0.22.0",
     "lodash": "^4.17.4",

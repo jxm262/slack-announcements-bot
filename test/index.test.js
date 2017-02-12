@@ -1,4 +1,4 @@
-import { blogs, announcements } from '../src/index'
+import { blogs, announcements } from '../src/scrapers'
 import chai from 'chai'
 chai.should()
 

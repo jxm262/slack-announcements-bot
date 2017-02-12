@@ -1,3 +1,3 @@
-export default {
-    webhookURL: "xxx"   //put slack webhook here
+module.exports = {
+    webhookURL: "xx"   //put slack webhook here
 }
